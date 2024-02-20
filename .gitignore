@@ -1,0 +1,11 @@
+
+**/.DS_Store
+Data/shapefiles/police district boundaries/
+Data/shapefiles/community area boundaries/
+Data/yearly reported crimes data/2015_crime_data.csv
+Data/yearly reported crimes data/2016_crime_data.csv
+Data/yearly reported crimes data/2017_crime_data.csv
+Data/yearly reported crimes data/2018_crime_data.csv
+Data/yearly reported crimes data/2019_crime_data.csv
+Data/yearly reported crimes data/2020_crime_data.csv
+*.pyc
